@@ -1,0 +1,7 @@
+ID_string,ID_ref,Match,Match_Percent,Match_Percent_Weighted,Match_Order_Same
+1001,2001,"this, is",1.0,1,TRUE
+1001,2002,,0.0,0.0,N/A
+1002,2001,is,0.3333333333333333,0.03333333333333333,N/A
+1002,2002,,0.0,0.0,N/A
+1003,2001,"is, this",1.0,1,FALSE
+1003,2002,"mx, 89",1.0,1,TRUE
